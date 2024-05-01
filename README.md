@@ -16,6 +16,8 @@ N/A
         
 ## Usage
 To use this the user must be using VS code terminal. In the terminal the user can type "node index.js" into the terminal Once the user has done so the user will be prompted with questions regarding the readme. When the user is done filling out the prompts a readme file will be generated.
+
+https://drive.google.com/file/d/1fj9Mtgn35JnjVxz8nrTzIJ2fTJwN77Aq/view
         
 ## Contributing
 N/A
